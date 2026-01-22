@@ -8,6 +8,7 @@ The course will cover
 6. ALWAYS UPDATE THE PROFS - easy 10 points 
 7. Don't make shit up, do team updates - easy 10 points
 8. You get several chances to do the homework - there's a final cutoff date, don't push till the end
+9. Talk early in case someone doesn't pull their weight, remember teammate feedback also matters in your grade
 
 
 # Misc notes 
@@ -15,6 +16,7 @@ The course will cover
 2. Alternative name for the course
 3. Ask about nikolia story on startups and work experience esp about stripe
 4. Ask about job market and hiring and getting referrals
+5. Ask about how to move fast and not fall behind during development
 
 
 # Notes
