@@ -9,7 +9,9 @@ The course will cover
 7. Don't make shit up, do team updates - easy 10 points
 8. You get several chances to do the homework - there's a final cutoff date, don't push till the end
 9. Talk early in case someone doesn't pull their weight, remember teammate feedback also matters in your grade
-
+10. Timely feedback is key, your quaterly review is how you will be graded
+11. 3-4 projects/homeworks
+12. Learn to write good commit messages, good pull reivews and such  - ekzhang, datafusion, and other good codebases accoring to hacker news
 
 # Misc notes 
 1. Ask about Yotov's PhD experience
