@@ -4,9 +4,7 @@ We're going to write a program which implements a very simple (almost useless) c
 Your code must meet the following restrictions
 
 1) DONE!
-
 2) DONE!
-  
 3) DONE!
 4) DONE!
 
